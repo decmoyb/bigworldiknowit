@@ -1,0 +1,9 @@
+@font-face {
+    font-family: dec-3;
+    src: url(dec-3.ttf);
+  }
+
+
+#smart-button-container {
+    width: 25%;
+}
